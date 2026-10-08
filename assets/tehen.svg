@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 92" role="img" aria-labelledby="title">
+  <title id="title">Tehén</title>
+  <path d="M25 31 10 26l-3 6 18 11M95 33l17-9 4 5-18 14" fill="#334b43"/>
+  <path d="M24 27c0-10 13-15 35-15s38 6 38 20v26c0 7-6 12-14 12H37c-9 0-15-6-15-14Z" fill="#f8f7ef" stroke="#334b43" stroke-width="3"/>
+  <path d="M37 15c-2 11 3 13 11 15 8 2 9 13 5 18-9 5-20-4-23-12-3-8-1-18 7-21ZM72 15c5 1 14 4 17 8-9 5-13 12-12 20-8 1-16-5-17-12-1-6 6-14 12-16Z" fill="#334b43"/>
+  <path d="M29 66v17h11V67M75 67v16h11V65" fill="#f8f7ef" stroke="#334b43" stroke-width="3"/>
+  <path d="M80 18c0-8 9-11 13-4l4 9M43 18c0-8-8-11-13-4l-4 9" fill="none" stroke="#334b43" stroke-width="3"/>
+  <ellipse cx="60" cy="55" rx="21" ry="15" fill="#eebeb0" stroke="#334b43" stroke-width="3"/>
+  <circle cx="53" cy="53" r="2" fill="#334b43"/><circle cx="67" cy="53" r="2" fill="#334b43"/>
+</svg>
